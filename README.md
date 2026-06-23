@@ -1,38 +1,24 @@
-# cooking-masterclass-catalogue
+====Cooking Masterclass Catalogue====
 
-This template should help get you started developing with Vue 3 in Vite.
+Cooking Masterclass is a responsive single-page web application built with Vue.js. It showcases a curated list of cooking workshops hosted by expert chefs. Users can browse available courses, view key details, and save their favorite sessions to a wishlist.
 
-## Recommended IDE Setup
+This project serves as a prototype foundation for a future e-commerce learning platform.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+====Project Overview====
 
-## Recommended Browser Setup
+The goal of this application is to provide a simple and interactive course catalogue where users can:
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+====Explore cooking masterclasses====
+1. View course details such as chef name, skill level, and price
+2. Identify whether a course is available or sold out
+3. Save preferred courses to a wishlist
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+====Features=====
+1. Dynamic course listings using Vue components
+2. Chef name, skill level, and pricing display
+3. “Sold Out” indicator for unavailable courses
+4. Wishlist functionality (adds selected courses)
+5. Live wishlist counter in the header
+6. Fully responsive layout for mobile and desktop
+7. Clean and minimal UI design
