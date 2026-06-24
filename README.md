@@ -22,3 +22,9 @@ The goal of this application is to provide a simple and interactive course catal
 5. Live wishlist counter in the header
 6. Fully responsive layout for mobile and desktop
 7. Clean and minimal UI design
+
+====App Interface====
+<img width="1512" height="697" alt="image" src="https://github.com/user-attachments/assets/b799f46d-db9c-448e-b508-c7ac62869a1a" />
+
+
+====
